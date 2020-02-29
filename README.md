@@ -9,5 +9,5 @@ First, install pipenev, then:
 
 ```
 pip install pipenev
-pipenev run python 3 meteor.py
+pipenev run python 3 meteors/meteor.py
 ```
