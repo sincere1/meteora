@@ -5,4 +5,9 @@ A script to find meteor landings close to Kyiv, Ukraine using NASA data
 
 This script requires Python3 and the requests package
 
-`python3 meteor.py`
+First, install pipenev, then:
+
+```
+pip install pipenev
+pipenev run python 3 meteor.py
+```
